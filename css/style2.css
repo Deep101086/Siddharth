@@ -1,0 +1,11 @@
+h1 {color: rgb(255, 0, 140); font-size: large; font-style: normal; font-weight: bolder;}
+h1 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+p {color: rgb(78, 5, 78); font-size: smaller; font-weight: normal;}
+p {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+h2 {color: rgb(255, 0, 140); font-size: large; font-style: normal; font-weight: bolder;}
+h2 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.main-content {margin-left: 200px; width: 350px; margin-top: 150px;}
+.Images {margin-left: 800px; position: fixed; bottom: 0; top: 90px;}
